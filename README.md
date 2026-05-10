@@ -1,4 +1,4 @@
-# Bike Lakehouse — Medallion Architecture Pipeline
+# Bike Lakehouse — Medallion Architecture Pipeline (Incremental Load)
 
 ## The Problem
 
